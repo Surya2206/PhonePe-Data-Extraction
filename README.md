@@ -5,9 +5,9 @@ Problem Statement: The Phonepe pulse Github repository contains a large amount o
 The application should have the following features:
 
 * Initially, we Clone the data from the Phonepe GitHub repository by using Python libraries. https://github.com/PhonePe/pulse.git
-* Process the clone data by using Python algorithms and transform the processed data into DataFrame format and E D A Process and Frame work.
-* Finally, create a connection to the MySQL server and create a Database and Tables Transformed and stored data in the MySQL server.
-* Create a connection to the MySQL server and access the specified MySQL DataBase by using pymysql library
+* Process the clone data by using Python algorithms and transform the processed data into DataFrame format and EDA Process and Frame work.
+* Finally, create a connection to the MySQL and create a Database and Tables Transformed and stored data in the MySQL .
+* Create a connection to the MySQL and access the specified MySQL DataBase by using pymysql library
 * Filter and process the collected data depending on the given requirements by using SQL queries
 * Finally, create a Dashboard by using Streamlit and applying selection and dropdown options on the Dashboard and show the output are bar chart, and Dataframe Table
 
