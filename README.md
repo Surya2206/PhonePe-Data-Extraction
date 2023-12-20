@@ -1,6 +1,10 @@
-Phonepe Pulse Data Visualization and Exploration: A UserFriendly Tool Using Streamlit and Plotpy
 
-Problem Statement: The Phonepe pulse Github repository contains a large amount of data related to various metrics and statistics. The goal is to extract this data and process it to obtain insights and information that can be visualized in a user-friendly manner.
+# Phonepe Pulse Data Visualization and Exploration: 
+A UserFriendly Tool Using Streamlit and Plotpy
+
+## Problem Statement: 
+
+The Phonepe pulse Github repository contains a large amount of data related to various metrics and statistics. The goal is to extract this data and process it to obtain insights and information that can be visualized in a user-friendly manner.
 
 The application should have the following features:
 
@@ -17,7 +21,7 @@ The application should have the following features:
 * Finally, create a Dashboard by using Streamlit and applying selection and dropdown options on the Dashboard and show the output are bar chart, and Dataframe Table
 
 
-Usage:
+## Usage:
 
 1. Launch the Streamlit app: streamlit run mainfile.py
 
